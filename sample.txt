@@ -1,1 +1,3 @@
-Hi! This is my sample text file.git
+Hi! This is my sample text file
+
+This was modified from my computer..git
